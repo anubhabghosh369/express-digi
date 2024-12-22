@@ -1,0 +1,18 @@
+{
+  "name": "teamanager",
+  "version": "1.0.0",
+  "description": "a simple description for different tea",
+  "main": "index.js",
+  "type":"module",
+  
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "tea"
+  ],
+  "author": "Anubhab Ghosh",
+  "license": "ISC"
+}
